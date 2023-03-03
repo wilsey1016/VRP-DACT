@@ -1,3 +1,6 @@
+# virtual environment
+dact_venv/  
+
 # project-specific ignores
 PDP-improve.ipynb
 .vscode
